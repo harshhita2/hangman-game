@@ -26,7 +26,7 @@ JavaScript (Vanilla) – Game logic and interactivity
 📁 Project Structure
 
 /project-root
-│
+
 ├── index.html
 ├── style.css
 ├── scripts/

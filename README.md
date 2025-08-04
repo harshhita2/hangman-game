@@ -11,8 +11,11 @@ A fun and interactive Hangman game built using HTML, CSS, and JavaScript. The pl
 📱 Fully responsive design
 
 🛠️ Tech Stack
+
 HTML5 – Structure
+
 CSS3 – Styling and layout
+
 JavaScript (Vanilla) – Game logic and interactivity
 
 📁 Project Structure

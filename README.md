@@ -35,7 +35,7 @@ You have a limited number of incorrect attempts (6).
 Guess the full word before the hangman completes!
 
 📦 Installation (For local development)
-git clone https://github.com/your-username/hangman-game.git
+git clone https://github.com/harshhita2/hangman-game
 cd hangman-game
 open index.html in your browser
 
